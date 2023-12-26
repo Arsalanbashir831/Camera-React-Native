@@ -1,0 +1,2783 @@
+[
+    {
+        "name": "Harshit Rana",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Ekant Sen",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Wayne Parnell",
+        "nationality": "South Africa",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 75.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "nationality": "Bangladesh",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 150.0,
+        "finalPrice": 150.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Joe Root",
+        "nationality": "England",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 100.0,
+        "finalPrice": 100.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Abdul Basith",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Prashant Chopra",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Akeal Hosein",
+        "nationality": "West Indies",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 100.0,
+        "finalPrice": 100.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Raghav Goyal",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Yudhvir Singh Charak",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Luke Wood",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 100.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Dilshan Madushanka",
+        "nationality": "Sri Lanka",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Naveen-ul-Haq",
+        "nationality": "Afghanistan",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Akash Singh",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Akash Vashist",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Suryansh Shedge",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Johnson Charles",
+        "nationality": "West Indies",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Rassie van der Dussen",
+        "nationality": "South Africa",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 200.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Mandeep Singh",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Murugan Ashwin",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "KM Asif",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 30.0,
+        "finalPrice": 30.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Dinesh Bana",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Anmolpreet Singh",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Adam Zampa",
+        "nationality": "Australia",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 150.0,
+        "finalPrice": 150.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Kusal Mendis",
+        "nationality": "Sri Lanka",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Litton Das",
+        "nationality": "Bangladesh",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Rilee Rossouw",
+        "nationality": "South Africa",
+        "franchise": "DC",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 460.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Shivam Singh",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Mohit Rathee",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Bhagath Varma",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Nehal Wadhera",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Shubhang Hegde",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sonu Yadav",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Deepesh Nainwal",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Trilok Nag",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Shubham Kapse",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Utkarsh Singh",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Jitender Pal",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Kunal Singh Rathore",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Ajay Jadav Mandal",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Kulwant Khejroliya",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Balu Surya",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sanjay Raghunath",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Priyank Panchal",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Varun Aaron",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Tom Curran",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 75.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Rehan Ahmed",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Avinash Singh",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 60.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Nitish Reddy",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "G Ajitesh",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Sanjay Yadav",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "David Wiese",
+        "nationality": "Namibia",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 100.0,
+        "finalPrice": 100.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sumeet Verma",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Swapnil Singh",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Shams Mulani",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Himanshu Bisht",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Mohit Sharma",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Joshua Little",
+        "nationality": "Ireland",
+        "franchise": "GT",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 440.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Richard Gleeson",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Jamie Overton",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 200.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Suyash Sharma",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Yuvraj Chudasama",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Tejas Baroka",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Paul van Meekeren",
+        "nationality": "Netherlands",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Rajan Kumar",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 70.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Vidhwath Kaverappa",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Vishnu Vinod",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Karan Shinde",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Urvil Patel",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Baba Indrajith",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Donavon Ferreira",
+        "nationality": "South Africa",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 50.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Jagadeesha Suchith",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Prerak Mankad",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Duan Jansen",
+        "nationality": "South Africa",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Mayank Dagar",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 180.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Manoj Bhandage",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Will Smeed",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Harpreet Singh Bhatia",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 40.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Piyush Chawla",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Amit Mishra",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Kyle Jamieson",
+        "nationality": "New Zealand",
+        "franchise": "CSK",
+        "status": "SOLD",
+        "basePrice": 100.0,
+        "finalPrice": 100.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Blessing Muzarabani",
+        "nationality": "Zimbabwe",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Dushmantha Chameera",
+        "nationality": "Sri Lanka",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Taskin Ahmed",
+        "nationality": "Bangladesh",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Sandeep Sharma",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Riley Meredith",
+        "nationality": "Australia",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 150.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Dasun Shanaka",
+        "nationality": "Sri Lanka",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "James Neesham",
+        "nationality": "New Zealand",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 200.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Mohammad Nabi",
+        "nationality": "Afghanistan",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 100.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Daniel Sams",
+        "nationality": "Australia",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 75.0,
+        "finalPrice": 75.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Daryl Mitchell",
+        "nationality": "New Zealand",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 100.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Romario Shepherd",
+        "nationality": "West Indies",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Dawid Malan",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 150.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Travis Head",
+        "nationality": "Australia",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 200.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Will Jacks",
+        "nationality": "England",
+        "franchise": "RCB",
+        "status": "SOLD",
+        "basePrice": 150.0,
+        "finalPrice": 320.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sherfane Rutherford",
+        "nationality": "West Indies",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 150.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Manish Pandey",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "SOLD",
+        "basePrice": 100.0,
+        "finalPrice": 240.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Paul Stirling",
+        "nationality": "Ireland",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 50.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Himanshu Sharma",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Sudhesan Midhun",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Shreyas Gopal",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Izharulhaq Naveed",
+        "nationality": "Afghanistan",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Chintal Gandhi",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Mukesh Kumar",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 550.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Shivam Mavi",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "SOLD",
+        "basePrice": 40.0,
+        "finalPrice": 600.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "N Jagadeesan",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 90.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Lance Morris",
+        "nationality": "Australia",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 30.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Mujtaba Yousuf",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Yash Thakur",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 45.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Vaibhav Arora",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 60.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Mohammed Azharuddeen",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Upendra Yadav",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 25.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Srikar Bharat",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 120.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Sanvir Singh",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sumit Kumar",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Shashank Singh",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Nishant Sindhu",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 60.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Abhimanyu Easwaran",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Corbin Bosch",
+        "nationality": "South Africa",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Saurabh Kumar",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Samarth Vyas",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Priyam Garg",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Vivrant Sharma",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 260.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Himmat Singh",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Shaik Rasheed",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "SOLD",
+        "basePrice": 20.0,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Rohan Kunnummal",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Shubham Khajuria",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Odean Smith",
+        "nationality": "West Indies",
+        "franchise": "GT",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "LR Chethan",
+        "nationality": "India",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 20.0,
+        "finalPrice": null,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Kane Williamson",
+        "nationality": "New Zealand",
+        "franchise": "GT",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 200.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Ajinkya Rahane",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Mayank Agarwal",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 100.0,
+        "finalPrice": 825.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Jason Holder",
+        "nationality": "West Indies",
+        "franchise": "RR",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 575.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Ishant Sharma",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Jaydev Unadkat",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Mayank Markande",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Nicholas Pooran",
+        "nationality": "West Indies",
+        "franchise": "LSG",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 1600.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Mujeeb Ur Rahman",
+        "nationality": "Afghanistan",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 100.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Tabraiz Shamsi",
+        "nationality": "South Africa",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 100.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Adil Rashid",
+        "nationality": "England",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 200.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Jhye Richardson",
+        "nationality": "Australia",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 150.0,
+        "finalPrice": 150.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Adam Milne",
+        "nationality": "New Zealand",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 200.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Reece Topley",
+        "nationality": "England",
+        "franchise": "RCB",
+        "status": "SOLD",
+        "basePrice": 75.0,
+        "finalPrice": 190.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Chris Jordan",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 200.0,
+        "finalPrice": null,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Philip Salt",
+        "nationality": "England",
+        "franchise": "DC",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 200.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Tom Banton",
+        "nationality": "England",
+        "franchise": null,
+        "status": "UNSOLD",
+        "basePrice": 200.0,
+        "finalPrice": null,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Heinrich Klaasen",
+        "nationality": "South Africa",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 100.0,
+        "finalPrice": 525.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Ben Stokes",
+        "nationality": "England",
+        "franchise": "CSK",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 1625.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Cameron Green",
+        "nationality": "Australia",
+        "franchise": "MI",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 1750.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sikandar Raza",
+        "nationality": "Zimbabwe",
+        "franchise": "PBKS",
+        "status": "SOLD",
+        "basePrice": 50.0,
+        "finalPrice": 50.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sam Curran",
+        "nationality": "England",
+        "franchise": "PBKS",
+        "status": "SOLD",
+        "basePrice": 200.0,
+        "finalPrice": 1850.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Harry Brook",
+        "nationality": "England",
+        "franchise": "SRH",
+        "status": "SOLD",
+        "basePrice": 150.0,
+        "finalPrice": 1325.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Rajat Patidar",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Matheesha Pathirana",
+        "nationality": "Sri Lanka",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Tristan Stubbs",
+        "nationality": "South Africa",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Ravi Bishnoi",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Yash Dhull",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Akash Madhwal",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Kumar Kartikeya",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Shahbaz Ahmed",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 240.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Rahul Tripathi",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 850.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Abhinav Manohar Sadarangani",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 260.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Harpreet Brar",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 380.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Dewald Brevis",
+        "nationality": "South Africa",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 300.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Deepak Hooda",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 575.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Dhruv Jurel",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Mukesh Choudhary",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Tim David",
+        "nationality": "Singapore",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 825.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Atharva Taide",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Praveen Dubey",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Sai Sudharsan",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Sarfaraz Khan",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Kuldeep Yadav",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 200.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Subhranshu Senapati",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Obed McCoy",
+        "nationality": "West Indies",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 75.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Siddarth Kaul",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 75.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Fazalhaq Farooqi",
+        "nationality": "Afghanistan",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Shahrukh Khan",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 900.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Kamlesh Nagarkoti",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 110.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Riyan Parag",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 380.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Abhishek Sharma",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 650.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Rahul Tewatia",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 900.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Anuj Rawat",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 340.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Rahul Chahar",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 525.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Yuzvendra Chahal",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 650.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Umesh Yadav",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 200.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Mark Wood",
+        "nationality": "England",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 750.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Jitesh Sharma",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Nathan Ellis",
+        "nationality": "Australia",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 75.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Prabhsimran Singh",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 60.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Ramandeep Singh",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Mustafizur Rahman",
+        "nationality": "Bangladesh",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 200.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Suyash Prabhudessai",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 30.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Tushar Deshpande",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Avesh Khan",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1000.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Ravisrinivasan Sai Kishore",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 300.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Glenn Phillips",
+        "nationality": "New Zealand",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 150.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Mitchell Santner",
+        "nationality": "New Zealand",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 190.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Ayush Badoni",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Rishi Dhawan",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 55.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Tim Southee",
+        "nationality": "New Zealand",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 150.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Jofra Archer",
+        "nationality": "England",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Alzarri Joseph",
+        "nationality": "West Indies",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 240.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Rovman Powell",
+        "nationality": "West Indies",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 280.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Bhanuka Rajapaksa",
+        "nationality": "Sri Lanka",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Devon Conway",
+        "nationality": "New Zealand",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 100.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Prashant Solanki",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 120.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Finn Allen",
+        "nationality": "New Zealand",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 80.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Mayank Yadav",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Pradeep Sangwan",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Mohsin Khan",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Simarjeet Singh",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "T Natarajan",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Kuldeep Sen",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Kartik Tyagi",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Bhuvneshwar Kumar",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 420.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Prasidh Krishna",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1000.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Noor Ahmad",
+        "nationality": "Afghanistan",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 30.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Josh Hazlewood",
+        "nationality": "Australia",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 775.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Yash Dayal",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 320.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "KC Cariappa",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 30.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Tilak Varma",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 170.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Anukul Roy",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Deepak Chahar",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1400.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Ripal Patel",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Matthew Wade",
+        "nationality": "Australia",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 240.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Wriddhiman Saha",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 190.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Vicky Ostwal",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Ambati Rayudu",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 675.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Darshan Nalkande",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Ishan Kishan",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1525.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Mahipal Lomror",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 95.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Dinesh Karthik",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 550.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Rajvardhan Hangargekar",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 150.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Jonny Bairstow",
+        "nationality": "England",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 675.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Washington Sundar",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 875.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Raj Bawa",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 200.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Manan Vohra",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Nitish Rana",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Rinku Singh",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 55.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Harshal Patel",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1075.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Krunal Pandya",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 825.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Maheesh Theekshana",
+        "nationality": "Sri Lanka",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 70.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Mitchell Marsh",
+        "nationality": "Australia",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 650.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Karn Sharma",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Chetan Sakariya",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 420.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Navdeep Saini",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 260.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Lungi Ngidi",
+        "nationality": "South Africa",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Khaleel Ahmed",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 525.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Jayant Yadav",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 170.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Vijay Shankar",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 140.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Liam Livingstone",
+        "nationality": "England",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1150.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "David Willey",
+        "nationality": "England",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 200.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Marco Jansen",
+        "nationality": "South Africa",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 420.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Krishnappa Gowtham",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 90.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Karan Sharma",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Shivam Dube",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Mohd Arshad Khan",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Lalit Yadav",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 65.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Baltej Singh",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Aiden Markram",
+        "nationality": "South Africa",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 260.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Kyle Mayers",
+        "nationality": "West Indies",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Arjun Tendulkar",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 30.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Hrithik Shokeen",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Kuldip Yadav",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Wanindu Hasaranga",
+        "nationality": "Sri Lanka",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1075.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Devdutt Padikkal",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 775.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "David Miller",
+        "nationality": "South Africa",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 300.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Shimron Hetmyer",
+        "nationality": "West Indies",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 850.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "David Warner",
+        "nationality": "Australia",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 625.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Mohammed Shami",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 625.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Kagiso Rabada",
+        "nationality": "South Africa",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 925.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Shreyas Iyer",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1225.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Faf du Plessis",
+        "nationality": "South Africa",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 700.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Shikhar Dhawan",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 825.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Quinton de Kock",
+        "nationality": "South Africa",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 675.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Trent Boult",
+        "nationality": "New Zealand",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Umran Malik",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Abdul Samad",
+        "nationality": "India",
+        "franchise": "SRH",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Ravichandran Ashwin",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 500.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Mohammed Siraj",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 700.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Glenn Maxwell",
+        "nationality": "Australia",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1100.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Virat Kohli",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1500.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Yashasvi Jaiswal",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Jos Buttler",
+        "nationality": "England",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1000.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Sanju Samson",
+        "nationality": "India",
+        "franchise": "RR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1400.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Arshdeep Singh",
+        "nationality": "India",
+        "franchise": "PBKS",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 400.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1200.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Akash Deep",
+        "nationality": "India",
+        "franchise": "RCB",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 20.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Rohit Sharma",
+        "nationality": "India",
+        "franchise": "MI",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1600.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Dwaine Pretorius",
+        "nationality": "South Africa",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 50.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "KL Rahul",
+        "nationality": "India",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1700.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Marcus Stoinis",
+        "nationality": "Australia",
+        "franchise": "LSG",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 920.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Sunil Narine",
+        "nationality": "West Indies",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 600.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Venkatesh Iyer",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1600.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Varun Chakaravarthy",
+        "nationality": "India",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Andre Russell",
+        "nationality": "West Indies",
+        "franchise": "KKR",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1200.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Shubman Gill",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Rashid Khan",
+        "nationality": "Afghanistan",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1500.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Hardik Pandya",
+        "nationality": "India",
+        "franchise": "GT",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1500.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Anrich Nortje",
+        "nationality": "South Africa",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 650.0,
+        "playerStyle": "Bowler"
+    },
+    {
+        "name": "Prithvi Shaw",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 750.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "MS Dhoni",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1200.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Moeen Ali",
+        "nationality": "England",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 800.0,
+        "playerStyle": "Allrounder"
+    },
+    {
+        "name": "Ruturaj Gaikwad",
+        "nationality": "India",
+        "franchise": "CSK",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 600.0,
+        "playerStyle": "Batter"
+    },
+    {
+        "name": "Rishabh Pant",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 1600.0,
+        "playerStyle": "WK-Batter"
+    },
+    {
+        "name": "Axar Patel",
+        "nationality": "India",
+        "franchise": "DC",
+        "status": "RETAINED",
+        "basePrice": null,
+        "finalPrice": 900.0,
+        "playerStyle": "Allrounder"
+    }
+]
